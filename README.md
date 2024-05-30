@@ -1,7 +1,7 @@
 ### Hi! I'm Pedro Andriotti 😃
 
 - 🌱 I'm currently graduating in Computer Science at CESAR School.
-- 📱  I'm currently studying React to specialize in front-end development
+- 💻 I'm currently studying Next.js to specialize in front-end development
 
 
 ## Skills
