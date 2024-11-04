@@ -1,8 +1,8 @@
 ### Hi! I'm Pedro Andriotti 😃
 
 - 🌱 I'm currently graduating in Computer Science at CESAR School.
+- 💻 Currently developing full-stack web applications with Next.js, React and Nest.js.
 - 📱 I'm currently studying Swift for iOS development.
-- 💻 Currently developing full-stack web applications with TypeScript and Next.js.
 
 
 ## Skills
